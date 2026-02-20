@@ -1,6 +1,6 @@
 # C3-Mini Sensor SHT40 Piggyback
 
-![image alt](https://github.com/0mollo/C3-Mini-Sensor-SHT40-Piggyback/blob/main/SHT%2040%20Piggyback%20top%20view.png) | ![image alt](https://github.com/0mollo/C3-Mini-Sensor-SHT40-Piggyback/blob/main/SHT%2040%20Piggyback%20bottom%20view.png?raw=true)
+- ![image alt](https://github.com/0mollo/C3-Mini-Sensor-SHT40-Piggyback/blob/main/SHT%2040%20Piggyback%20top%20view.png) | ![image alt](https://github.com/0mollo/C3-Mini-Sensor-SHT40-Piggyback/blob/main/SHT%2040%20Piggyback%20bottom%20view.png?raw=true)
 
 Temperature & Relative Humidity Module  
 Version: V1.3  
@@ -69,8 +69,8 @@ Recommended I2C configuration:
 
  ## Associated Libraries
 
-[Adafruit SHT4x Library](https://docs.arduino.cc/libraries/adafruit-sht4x-library/)
-[Adafruit Unified Sensor](https://docs.arduino.cc/libraries/adafruit-unified-sensor/)
+- [Adafruit SHT4x Library](https://docs.arduino.cc/libraries/adafruit-sht4x-library/)
+- [Adafruit Unified Sensor](https://docs.arduino.cc/libraries/adafruit-unified-sensor/)
 
 ## Arduino Example Code
 
