@@ -1,5 +1,5 @@
 # C3-Mini Sensor SHT40 Piggyback
-![image alt](https://github.com/0mollo/C3-Mini-Sensor-SHT40-Piggyback/blob/main/SHT%2040%20Piggyback%20top%20view.png) ![image alt](-https://github.com/0mollo/C3-Mini-Sensor-SHT40-Piggyback/blob/main/SHT%2040%20Piggyback%20bottom%20view.png)
+![image alt](https://github.com/0mollo/C3-Mini-Sensor-SHT40-Piggyback/blob/main/SHT%2040%20Piggyback%20top%20view.png) | ![image alt](-https://github.com/0mollo/C3-Mini-Sensor-SHT40-Piggyback/blob/main/SHT%2040%20Piggyback%20bottom%20view.png)
 Temperature & Relative Humidity Module  
 Version: V1.3  
 
@@ -43,7 +43,6 @@ Built around the Sensirion SHT40 digital sensor.
 | SCL | I2C Clock |
 | SDA | I2C Data |
 
----
 
 ##  C3-Mini GPIO Mapping
 
@@ -58,7 +57,7 @@ Recommended I2C configuration:
 
 ## Board Schematic
 
-[See]()
+[See](https://github.com/0mollo/C3-Mini-Sensor-SHT40-Piggyback/blob/main/SHT%2040%20Piggyback.pdf)
 
 ##  Board Dimensions
 
