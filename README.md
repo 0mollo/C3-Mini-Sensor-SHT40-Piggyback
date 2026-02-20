@@ -67,7 +67,10 @@ Recommended I2C configuration:
 - Compact vertical stack design
 - Version marking: V1.3
 
+ ## Associated Libraries
 
+[Adafruit SHT4x Library](https://docs.arduino.cc/libraries/adafruit-sht4x-library/)
+[Adafruit Unified Sensor](https://docs.arduino.cc/libraries/adafruit-unified-sensor/)
 
 ## Arduino Example Code
 
