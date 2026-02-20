@@ -1,5 +1,5 @@
-# C3-Mini Sensor SHT40 Piggyback (Carenuity Ecosystem)
-
+# C3-Mini Sensor SHT40 Piggyback
+![image alt](https://github.com/0mollo/C3-Mini-Sensor-SHT40-Piggyback/blob/main/SHT%2040%20Piggyback%20top%20view.png) ![image alt]()
 Temperature & Relative Humidity Module  
 Version: V1.3  
 
